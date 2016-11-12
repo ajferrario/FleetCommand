@@ -11,6 +11,5 @@ class SpaceObject:
 
     """
 
-    __counter = 0
 
     def __init__(self):
